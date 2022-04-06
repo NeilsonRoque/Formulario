@@ -1,6 +1,9 @@
-h1 {
-   color: rgb(45, 45, 120);
+h1{
+    color: blue;
 }
+hr{
+    margin: 40px 0;
+   }
 ul{
     color: blue;
     margin: 0;
