@@ -1,9 +1,10 @@
 h1{
     color: blue;
 }
-hr{
-    margin: 40px 0;
-   }
+#linha-horizontal {
+    margin: 0;
+    width: 800px;
+    border: 1px solid blue;}
 ul{
     color: blue;
     margin: 0;
