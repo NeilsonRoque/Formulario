@@ -12,6 +12,9 @@ ul{
 h2{
 color: gray;
 }
+h3{
+    color: blue;
+}
 figure {
     background-color: white;
     border: 0px;
@@ -28,4 +31,7 @@ figure {
 }
 th{
     color: blue;
+}
+ul.placa{
+    color: gray;
 }
